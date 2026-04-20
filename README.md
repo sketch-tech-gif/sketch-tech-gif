@@ -5,7 +5,7 @@
 &nbsp;&nbsp;
 ![Nairobi Kenya](https://img.shields.io/badge/Nairobi-Kenya-red)
 
-##Tech Stack
+Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
