@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Kangogo Evans
+# Hi, I'm Kangogo Evans
 
 ### 💻 Full Stack Developer | 🌍 Remote Software Engineer
 ![Open](https://img.shields.io/badge/Open-Work-brightgreen)
 &nbsp;&nbsp;
 ![Nairobi Kenya](https://img.shields.io/badge/Nairobi-Kenya-red)
-##⚡Tech Stack
+
+##Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -23,9 +24,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
----
-
-## 🚀 About Me
+## About Me
 
 Full-Stack Developer experienced in building and deploying **end-to-end web applications** using modern technologies like React, Node.js, Express, and MongoDB.
 
