@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kangogo Evans
 
 ### 💻 Full Stack Developer | 🌍 Remote Software Engineer
-(https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen)
-(https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-red)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen)
+![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-red)
 
 ##⚡Tech Stack
 
